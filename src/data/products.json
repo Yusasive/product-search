@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Infinix",
+    "description": "Infinix Mobile is smartphone company with headquarters in Hong Kong, founded in 2013 by Transsion Holdings. Their devices are manufactured in several countries. They have research and development centers in France and Korea and design their phones in France"
+  },
+  {
+    "id": 2,
+    "name": "Tecno",
+    "description": "Tecno Mobile is a Chinese mobile phone manufacturer based in Shenzhen, China. It was established in 2006. It is a subsidiary of Transsion Holdings. Aimed at emerging markets, Tecno has focused its business on the African, Middle East, Southeast Asian, South Asian, Latin American, and Eastern European markets."
+  },
+  {
+    "id": 3,
+    "name": "Umidigi",
+    "description": "Umidigi also produces mobile phone accessories such as wireless earphones, smartwatches, a Bluetooth selfie stick/tripod combo, and a wireless charging pad. Some of accessories go under the brand names such as Ubeats, Upod, and Uwatch."
+  },
+  {
+    "id": 4,
+    "name": "Iphone",
+    "description": "The iPhone is a line of smartphones produced by Apple Inc. that use Apple's own iOS mobile operating system. The first-generation iPhone was announced by then–Apple CEO Steve Jobs on January 9, 2007. Since then, Apple has annually released new iPhone models and iOS updates. As of November 1, 2018, more than 2.2 billion iPhones had been sold."
+  },
+  {
+    "id": 5,
+    "name": "Vivo",
+    "description": "Vivo Communication Technology Co. Ltd. is a Chinese multinational technology company headquartered in Dongguan, Guangdong that designs and develops smartphones, smartphone accessories, software and online services. The company develops software for its phones, distributed through its V-Appstore, with iManager included in their proprietary, Android-based operating system, Origin OS in Mainland China, and Funtouch OS elsewhere"
+  },
+  {
+    "id": 6,
+    "name": "Redmi",
+    "description": "Redmi is a subsidiary company owned by the Chinese electronics company Xiaomi. It was first announced in July 2013 as a budget smartphone line,[1] and became a separate sub-brand of Xiaomi in 2019 with entry-level and mid-range devices, while Xiaomi itself produces upper-range and flagship Xiaomi (formerly Mi) phones."
+  },
+  {
+    "id": 7,
+    "name": "Samsung",
+    "description": "SΛMSUNG Galaxy since 2015 (except Japan where it omits the Samsung branding),[2] previously stylized as Samsung GALAXY; abbreviated as SG) is a series of computing and mobile computing devices that are designed, manufactured and marketed by Samsung Electronics"
+  },
+  {
+    "id": 8,
+    "name": "Sony",
+    "description": "Sony was a multinational telecommunications company founded on October 1, 2001, as a joint venture between Sony Corporation and Ericsson. It was originally incorporated as Sony Ericsson Mobile Communications,[3] and headquartered in London, England, until Sony acquired Ericsson's share in the venture on February 16, 2012.[4] On April 1, 2021"
+  },
+  {
+    "id": 9,
+    "name": "Itel",
+    "description": "itel Mobile is a China-based mobile phone manufacturer company that was founded by Lei Weiguo and Shenzhen Transsion Holdings Co Limited in March 2014,[1] and is headquartered in Shenzhen, China"
+  },
+  {
+    "id": 10,
+    "name": "Huawei",
+    "description": "Huawei is a Chinese multinational technology corporation headquartered in Longgang, Shenzhen, Guangdong. It designs, develops, manufactures and sells telecommunications equipment, consumer electronics, smart devices and various rooftop solar products"
+  },
+  {
+    "id": 11,
+    "name": "Google Pixel",
+    "description": "Google Pixel is a brand of portable consumer electronic devices developed by Google that run either ChromeOS or the Android operating system."
+  },
+  {
+    "id": 12,
+    "name": "Lenovo",
+    "description": "Lenovo smartphones are marketed as the LePhone in Mainland China and the IdeaPhone overseas are smartphones desgined and manufactured by the Motorola Mobility, ZUK Mobile and Medion, divisions of Lenovo. On April 27, 2017, Lenovo announced that the ZUK brand would cease operations"
+  },
+  {
+    "id": 13,
+    "name": "Nokia",
+    "description": "Nokia is a Finnish multinational corporation founded on 12 May 1865 as a single paper mill operation. Through the 19th century the company expanded, branching into several different products. In 1967, the Nokia corporation was formed"
+  }
+]
