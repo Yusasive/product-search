@@ -9,7 +9,7 @@ interface Product {
 const ComparisonTable: React.FC<{ products: Product[] }> = ({ products }) => {
   return (
     <div>
-      <h2 className="text-xl font-semibold mb-4">Comparison Table</h2>
+      <h2 className="text-4xl text-center font-bold mb-4">Comparison Table</h2>
       <table className="border border-gray-300">
         <thead>
           <tr>
